@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -27,3 +28,10 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+=======
+WebPy
+=====
+
+A Python WebPy Example!
+2014-07-20
+>>>>>>> 09d3a715d3787048279b18f71388915c7e2b4483
